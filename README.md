@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="assets/logo.svg" alt="Meilisearch" width="200" height="200" />
 </p>
